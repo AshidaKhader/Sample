@@ -1,0 +1,40 @@
+
+(process:4199): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+WARN  2017-10-11 08:32:31 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x82000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+
+(process:5711): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA20027,name=PNecko::Msg_RemoveSchedulingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+(process:5900): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(process:6660): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+1507709103512	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1507709103790	addons.update-checker	WARN	Update manifest for loop@mozilla.org did not contain an updates property
+1507709103817	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1507709104151	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1507709106719	addons.xpi	WARN	System add-on websensehelper@mozilla.org isn't compatible with the application.
+1507709106746	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIProvider.jsm:3017:15) JS Stack trace: this.XPIProvider.updateSystemAddons<@XPIProvider.jsm:3017:15
+
+(process:12651): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed

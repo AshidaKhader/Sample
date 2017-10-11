@@ -1,0 +1,6 @@
+4
+
+https://angular.io/
+https://angular.io/worker-basic.min.js
+{6ebceb49-6615-4150-a2ab-b5e28fb39238}
+#

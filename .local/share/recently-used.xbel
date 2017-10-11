@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ashida/Downloads/code_1.15.1-1502903936_amd64.deb" added="2017-10-10T10:39:43Z" modified="2017-10-10T10:49:34Z" visited="2017-10-10T10:39:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-10T10:39:43Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gnome-software --local-filename=%f&apos;" modified="2017-10-10T10:49:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ashida/nodesource_setup.sh" added="2017-10-10T10:49:49Z" modified="2017-10-10T10:49:50Z" visited="2017-10-10T10:49:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-10T10:49:49Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-10T10:49:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ashida" added="2017-10-10T11:00:48Z" modified="2017-10-10T11:00:48Z" visited="2017-10-10T11:00:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2017-10-10T11:00:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ashida/Documents/angular-tour-of-heroes/src/app/app.component.ts" added="2017-10-11T03:23:49Z" modified="2017-10-11T03:23:49Z" visited="2017-10-11T03:23:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/vnd.trolltech.linguist"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2017-10-11T03:23:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ashida/Documents/angular-tour-of-heroes/src/app/app.component.css" added="2017-10-11T05:32:09Z" modified="2017-10-11T05:32:09Z" visited="2017-10-11T05:32:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2017-10-11T05:32:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ashida/Documents/angular-tour-of-heroes" added="2017-10-11T05:32:47Z" modified="2017-10-11T05:32:47Z" visited="2017-10-11T05:32:47.765794Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2017-10-11T05:32:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

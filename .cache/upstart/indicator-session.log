@@ -1,0 +1,6 @@
+
+(unity-control-center:7062): screen-cc-panel-WARNING **: Error getting brightness: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._gsd_5fpower_5fmanager_5ferror.Code0: Screen backlight not available
+
+(unity-control-center:7062): unity-control-center-WARNING **: Could not load /usr/share/themes/Adwaita/index.theme: No such file or directory
+
+(unity-control-center:7062): screen-cc-panel-WARNING **: Error getting brightness: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._gsd_5fpower_5fmanager_5ferror.Code0: Screen backlight not available
